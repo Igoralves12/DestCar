@@ -1,4 +1,4 @@
-package com.dartcar.demo;
+package com.dastcar;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
